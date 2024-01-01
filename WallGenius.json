@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M109.png",
+		"name": "M109",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Animal%20%26%20Birds/AB61.png",
 		"name": "AB61",
 		"collections": "Animal & Birds"
