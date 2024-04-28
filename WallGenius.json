@@ -1,6 +1,42 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M222.png",
+		"name": "M222",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M221.png",
+		"name": "M221",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN44.png",
+		"name": "AN44",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN43.png",
+		"name": "AN43",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN42.png",
+		"name": "AN42",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN41.png",
+		"name": "AN41",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN40.png",
 		"name": "AN40",
 		"collections": "Anime"
@@ -16,6 +52,12 @@
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Anime/AN38.png",
 		"name": "AN38",
 		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Abstract/A143.png",
+		"name": "A143",
+		"collections": "Abstract"
 	},
 	{
 		"author": "Zeffi Setups",
