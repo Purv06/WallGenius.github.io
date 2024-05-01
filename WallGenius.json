@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM12.png",
+		"name": "AM12",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM11.png",
+		"name": "AM11",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM10.png",
+		"name": "AM10",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M222.png",
 		"name": "M222",
 		"collections": "Minimal"
