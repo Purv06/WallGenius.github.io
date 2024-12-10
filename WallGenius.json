@@ -1,6 +1,26 @@
 [
+	
+	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M246.jpg",
+		"name": "M246",
+		"collections": "Minimal"
+	},
 	{
 		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M245.jpg",
+		"name": "M245",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M244.jpg",
+		"name": "M244",
+		"collections": "Minimal"
+	},
+	{
+	        "author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Abstract/A171.png",
 		"name": "A171",
 		"collections": "Abstract"
