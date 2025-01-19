@@ -1,6 +1,63 @@
 [
 	
 	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M252.jpg",
+		"name": "M252",
+		"collections": "Minimal"
+	},
+	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M251.jpg",
+		"name": "M251",
+		"collections": "Minimal"
+	},
+	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M250.jpg",
+		"name": "M250",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM16.jpg",
+		"name": "AM16",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM15.jpg",
+		"name": "AM15",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM14.jpg",
+		"name": "AM14",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N173.png",
+		"name": "N173",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N172.png",
+		"name": "N172",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N171.png",
+		"name": "N171",
+		"collections": "Nature"
+	},
+	{
 		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Cars%20%26%20Bikes/CB82.png",
 		"name": "CB82",
