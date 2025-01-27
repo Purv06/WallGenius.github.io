@@ -3,6 +3,27 @@
 	{
 
 		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Niagara%20Walls/NG03.png",
+		"name": "NG03",
+		"collections": "Niagara Walls"
+	},
+	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Niagara%20Walls/NG02.png",
+		"name": "NG02",
+		"collections": "Niagara Walls"
+	},
+	{
+
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Niagara%20Walls/NG01.png",
+		"name": "NG01",
+		"collections": "Niagara Walls"
+	},
+	{
+
+		"author": "Zeffi Setups",
                 "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M252.jpg",
 		"name": "M252",
 		"collections": "Minimal"
