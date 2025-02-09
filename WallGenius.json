@@ -1,7 +1,24 @@
 [
 	
 	{
-
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Blur/B03.png",
+		"name": "B03",
+		"collections": "Blur"
+	},
+	{
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Blur/B02.png",
+		"name": "B02",
+		"collections": "Blur"
+	},
+	{
+		"author": "Zeffi Setups",
+                "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Blur/B01.png",
+		"name": "B01",
+		"collections": "Blur"
+	},
+	{
 		"author": "Zeffi Setups",
                 "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Niagara%20Walls/NG04.png",
 		"name": "NG04",
