@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N190.png",
+		"name": "N190",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N189.png",
+		"name": "N189",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Nature/N188.png",
+		"name": "N188",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
                 "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/refs/heads/main/Blur/B04.png",
 		"name": "B04",
 		"collections": "Blur"
