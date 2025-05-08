@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM25.png",
+		"name": "AM25",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM24.png",
+		"name": "AM24",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Amoled/AM23.png",
+		"name": "AM23",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Animal%20%26%20Birds/AB83.png",
 		"name": "AB83",
 		"collections": "Animal & Birds"
