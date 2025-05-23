@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Portrait/P03.png",
+		"name": "P04",
+		"collections": "Portrait"
+	},
+	{
+		"author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/Purv06/WallGenius.github.io/main/Minimal/M255.png",
 		"name": "M255",
 		"collections": "Minimal"
